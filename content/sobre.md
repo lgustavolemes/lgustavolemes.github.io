@@ -1,6 +1,5 @@
 +++
 title = 'Sobre'
-url = "/sobre/"
 draft = false
 +++
 
