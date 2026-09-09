@@ -1,23 +1,18 @@
 +++
-title = 'Quem sou eu?'
-description = 'Saiba mais sobre mim.'
+title = 'Sobre'
+description = 'Um pouquinho da minha história'
 draft = false
 +++
 
 ![Foto de perfil](/images/foto-perfil-utc.jpg)
 
-### Minha trajetória
+Olá, sou Biólgoo de formação pela UENP com um pé na Ciência da Computação.
 
-Sou formado inicialmente em **Ciências Biológicas**. Atualmente curso **Análise e Desenvolvimento de Sistemas** e faço mestrado em **Bioinformática** pela UTFPR.
+Atualmente, faço uma segunda graduação em Análise de Sistemas e também um mestrado em Bioinformática, pela UTFPR.
 
-Minha trajetória combina ciência, tecnologia e educação. Este site é um espaço para registrar estudos, experiências e assuntos que considero interessantes.
+Moro em uma cidade do interior do Paraná, em Cornélio Procópio.
 
-### Interesses
-
-- Bioinformática e biologia computacional
-- Desenvolvimento de software
-- Tecnologia aplicada à ciência
-- Educação e compartilhamento de conhecimento
+Atualizarei essa página quando tiver tempo, por ora, bem vindo :)
 
 ### Contato
 
