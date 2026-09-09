@@ -13,9 +13,9 @@ enableRobotsTXT = true
   defaultTheme = 'light'
   disableThemeToggle = true
   ShowReadingTime = false
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowWordCount = false
   mainSections = ['posts']
@@ -53,6 +53,12 @@ enableRobotsTXT = true
     name = 'cv'
     title = 'Currículo Lattes'
     url = 'http://lattes.cnpq.br/2530615530098375'
+
+[[menu.main]]
+identifier = "projetos"
+name = "Projetos"
+url = "/projetos/"
+weight = 20
 
 [[menu.main]]
   identifier = 'posts'
