@@ -1,0 +1,71 @@
+baseURL = 'https://lgustavolemes.github.io/'
+locale = 'pt-br'
+defaultContentLanguage = 'pt-br'
+title = 'Luiz Gustavo Lemes'
+theme = 'PaperMod'
+enableRobotsTXT = true
+
+[params]
+  env = 'production'
+  title = '#'
+  description = 'Página pessoal de Luiz Gustavo sobre bioinformática, tecnologia e educação.'
+  author = 'Luiz Gustavo'
+  defaultTheme = 'light'
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  mainSections = ['posts']
+
+  [params.homeInfoParams]
+
+    Title = 'Olá, bem-vindos ao meu site! :)'
+    Content = '''
+- Sou formado inicialmente em **Ciências Biológicas** e atualmente faço uma graduação em **Análise e Desenvolvimento de Sistemas** e mestrado em **Bioinformática** pela UTFPR.
+- Sou apaixonado por tecnologia e divulgação científica por meio da educação.
+- Por aqui, compartilho e escrevo pensamentos, projetos e gostos pessoais.
+- Se quiser saber mais sobre mim, consulte a página [Sobre](https://endereco-do-site.com)
+
+![Link, personagem de The Legend of Zelda](https://media.tenor.com/gnjE0KpqR_EAAAAj/link-legend-of-zelda.gif)
+'''
+    
+  
+  [[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://www.linkedin.com/in/gustav0lemes/'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/lgustavolemes'
+
+  [[params.socialIcons]]
+    name = 'instagram'
+    url = 'https://www.instagram.com/lgustavolemes'
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:gustavolemes92@gmail.com'
+
+  [[params.socialIcons]]
+    name = 'cv'
+    title = 'Currículo Lattes'
+    url = 'http://lattes.cnpq.br/2530615530098375'
+
+[[menu.main]]
+  identifier = 'posts'
+  name = 'Blog'
+  url = '/posts/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'sobre'
+  name = 'Sobre'
+  url = '/sobre/'
+  weight = 20
+
+[markup]
+  [markup.highlight]
+    noClasses = false

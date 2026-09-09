@@ -1,0 +1,16 @@
+.home-info .entry-content img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin: 0 0 1rem;
+  object-fit: contain;
+}
+
+.post-content img[alt="Foto de perfil"] {
+  display: block;
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0 2rem;
+  border-radius: 10px;
+}
