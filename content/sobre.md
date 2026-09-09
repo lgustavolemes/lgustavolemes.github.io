@@ -1,6 +1,6 @@
 +++
 title = 'Sobre'
-description = 'Um pouquinho da minha história'
+url = "/sobre/"
 draft = false
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Projetos"
 url = "/projetos/"
+draft = false
 +++
 
 Aqui estão alguns projetos que desenvolvi.
