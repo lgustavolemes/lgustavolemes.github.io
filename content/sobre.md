@@ -5,7 +5,7 @@ draft = false
 
 ![Foto de perfil](/images/foto-perfil-utc.jpg)
 
-Olá, sou Biólgoo de formação pela UENP com um pé na Ciência da Computação.
+Olá, sou Biólogo de formação pela UENP com um pé na Ciência da Computação.
 
 Atualmente, faço uma segunda graduação em Análise de Sistemas e também um mestrado em Bioinformática, pela UTFPR.
 
