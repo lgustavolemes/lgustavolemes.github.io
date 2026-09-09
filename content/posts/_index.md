@@ -1,6 +1,5 @@
 +++
 title = 'Blog'
-description = 'Textos sobre bioinformática, tecnologia, educação e outros assuntos.'
+description = ''
 +++
 
-Aqui compartilho estudos, experiências, descobertas e assuntos que considero interessantes.
