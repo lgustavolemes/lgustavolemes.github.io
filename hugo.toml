@@ -11,7 +11,7 @@ enableRobotsTXT = true
   description = 'Página pessoal de Luiz Gustavo sobre bioinformática, tecnologia e educação.'
   author = ''
   defaultTheme = 'light'
-  disableThemeToggle = true
+  disableThemeToggle = false
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = false
@@ -27,7 +27,7 @@ enableRobotsTXT = true
 - Sou formado inicialmente em **Ciências Biológicas** e atualmente faço uma graduação em **Análise e Desenvolvimento de Sistemas** e mestrado em **Bioinformática** pela UTFPR.
 - Sou apaixonado por tecnologia e divulgação científica por meio da educação.
 - **Por aqui, compartilho e escrevo pensamentos, projetos e gostos pessoais.**
-- Se quiser saber mais sobre mim, consulte a página [Sobre](https://lgustavolemes.github.io/sobre/)
+- Consulte a página [Sobre](https://lgustavolemes.github.io/sobre/) e [Projetos](https://lgustavolemes.github.io/projetos/) para mais informações sobre mim.
 
 ![Link, personagem de The Legend of Zelda](https://media.tenor.com/gnjE0KpqR_EAAAAj/link-legend-of-zelda.gif)
 '''
