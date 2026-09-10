@@ -1,7 +1,7 @@
 +++
 title = 'Cientificamente Falando - Um podcast de divulgação científica'
 date = 2026-09-09T10:00:00-03:00
-description = 'Relato de uma oficina de jogos realizado na UTFPR, no projeto de extensão ELLP.'
+description = ''
 tags = ['']
 draft = false
 +++
