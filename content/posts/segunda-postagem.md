@@ -1,8 +1,8 @@
 +++
 title = 'Como criei este site com Hugo'
 date = 2026-09-08T10:00:00-03:00
-description = 'Uma introdução ao Hugo, ao tema PaperMod e ao processo de publicação.'
-tags = ['Hugo', 'Git', 'GitHub Pages']
+description = ''
+tags = ['']
 draft = false
 +++
 

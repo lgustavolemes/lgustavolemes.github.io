@@ -1,9 +1,9 @@
 +++
-title = 'Cientificamente Falando - Um podcast de divulgação científica'
+title = 'Divulgação científica em podcast'
 date = 2026-09-09T10:00:00-03:00
 description = ''
 tags = ['']
-draft = false
+draft = true
 +++
 
 No segundo semestre de 2026, foi realizado no projeto de extensão ELLP uma oficina de jogos para estudantes da rede pública da cidade de Cornélio Procópio.

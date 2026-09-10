@@ -1,8 +1,8 @@
 +++
 title = 'Bem-vindo ao meu blog'
 date = 2026-09-09T10:00:00-03:00
-description = 'Uma apresentação deste espaço e dos assuntos que pretendo compartilhar.'
-tags = ['Apresentação']
+description = ''
+tags = ['']
 draft = false
 +++
 
