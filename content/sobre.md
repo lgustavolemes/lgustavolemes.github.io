@@ -17,6 +17,6 @@ Atualizarei essa página quando tiver tempo, por ora, bem vindo :)
 
 Se quiser falar comigo, meu e-mail é gustavolemes92@gmail.com
 
--
+---
 
 *“Information is power. But like all power, there are those who want to keep it for themselves.” — Guerilla Open Access Manifesto (2008).*
